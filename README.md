@@ -11,7 +11,9 @@ Here are some other features:
 * Helper methods for configuring `sneakers`
 * Support for configuring `sneakers` with [BigWig](http://bigwig.io/)
 
-[![Build status](https://codeship.com/projects/26f19c80-e7c0-0132-7554-4e340869c11f/status?branch=master)](https://codeship.com/projects/82628)
+DISCLAIMER: This repo contains the source code from the [la_gear](https://rubygems.org/gems/la_gear) gem owned by [giftcardzen](https://rubygems.org/profiles/giftcardzen). This was an account I created while a software engineer at Giftcard Zen. Giftcard Zen was [acquired by RetailMeNot in 2015](https://www.crunchbase.com/acquisition/whale-shark-media-acquires-giftcard-zen--18806c45). RetailMeNot took ownership of the account and the open source projects under the [giftcardzen](https://github.com/giftcardzen) GitHub organization, including the la_gear repo. Unfortunately, RetailMeNot deleted the organization including all open source repos without transferring ownership to contributors.
+
+I finally got around to pulling the source from the gem and pushing it here, mostly for posterity. This represents a piece of my career growth in architecting distributed systems communicating via publish/subscribe.
 
 ## Installation
 
